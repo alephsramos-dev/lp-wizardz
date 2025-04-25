@@ -1,0 +1,21 @@
+.footer__padding{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 10%;
+    height: 5vh;
+    background-color: #000;
+}
+
+.footer__text p{
+    font-size: 1.4rem;
+    color: #fff;
+}
+
+.footer__text b{
+    color: #BDF772;
+}
+
+.footer__text a{
+    text-decoration: none;
+}

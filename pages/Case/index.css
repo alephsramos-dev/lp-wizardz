@@ -1,0 +1,93 @@
+.case__padding{
+    padding: 0 10%;
+    width: 100%;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.case__container{
+    width: 100%;
+    height: 90%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    gap: 40px;
+}
+
+.case__title{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.case__title h1{
+    font-size: 2.6rem;
+    background-color: #BDF772;
+}
+
+.case__title p{
+    font-size: 1.2rem;
+    width: 40%;
+}
+
+.case__cards{
+    width: 100%;
+    display: flex;
+    height: 60%;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #000;
+    border-radius: 40px;
+}
+
+.case_card{
+    width: 30%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.case__item{
+    height: 80%;
+    padding: 40px;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.case__item p{
+    font-size: 1.6rem;
+    color: #fff;
+}
+
+.case__item button{
+    background-color: transparent;
+    color: #BDF772;
+    height: 20%;
+    border: none;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+    font-size: 1.4rem;
+}
+
+.case__item i{
+    transform: rotate(45deg);
+    font-size: 1.4rem;
+}
+
+.case__line{
+    height: 80%;
+    background-color: #fff;
+    position: relative;
+    transform: rotate(0deg);
+}

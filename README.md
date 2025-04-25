@@ -9,7 +9,7 @@ Página estática criada para **treinar** meu HTML e CSS.
 Esta landing page tem como foco apresentar uma agência de marketing digital. 
 
 Demo:  
-https://alephsramos-dev.github.io/lp-allox/
+https://alephsramos-dev.github.io/lp-wizardz/
 
 ---
 
@@ -53,7 +53,7 @@ index.html             # Ponto de entrada
 
 1. **Clone**  
    ```bash
-   git clone https://github.com/alephsramos-dev/lp-allox.git
+   git clone https://github.com/alephsramos-dev/lp-wizardz.git
    ```
 2. **Abra**  
    - Dê duplo clique em `src/index.html`  
